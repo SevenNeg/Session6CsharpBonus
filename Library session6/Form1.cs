@@ -7,6 +7,10 @@ namespace Library_session6
     {
         public Main()
         {
+          List <User> users = null;
+            List <Book> books = null;
+            books = new List<Book>();
+            users = new List<User>();
             InitializeComponent();
         }
 
